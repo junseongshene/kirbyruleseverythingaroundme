@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'CookieRun-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/CookieRun-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: "Cute Font", sans-serif;
+    font-size: larger;
+}
+
+.KREAM1 {
+    background-color: rgb(236, 85, 104);
+    padding: 0.5vw;
+    border: 1px;
+    font-family: 'CookieRun-Regular', sans-serif;
+    color: #FFFFFF;
+    font-size: 4.5vw;  
+    text-align: center;
+
+}
+
